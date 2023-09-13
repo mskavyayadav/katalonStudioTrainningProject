@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_19'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'This is a demo comment')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), ' This is new content')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
 
